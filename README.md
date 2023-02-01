@@ -5,8 +5,8 @@
     + maven
 ---
 + 运行main
-    + `QccPageProcessor.main()`
-    + excel导出位置: 项目运行所在盘符/qcc.xlsx
+    + `对应网站目录下的main()`
+    + excel导出位置: 通过参数指定
 ---
 + cookie配置(浏览器登录后替换以下参数)
     + **QCCSESSID**
